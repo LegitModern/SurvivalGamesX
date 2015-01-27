@@ -1,18 +1,7 @@
 Survival Games X
 ==============
-The popular Survival Games X is finally open source as we prepare for a complete
-re-write as the team focuses on heavy optimization, a cleaner framework,
-polished and streamlined code, more events & efficient API for
-developers, better configuration, better MySQL & SQLite support, better
-rollback, MORE features for you, and much much more behind the scenes
-work! All of this is necessary and will make it much easier for the team
-to update Survival Games X in the near future.
+Survival Games X is no longer being developed at this time. I do have the plugin now open sourced for those of you who wish to keep contributing/updating in the plugin. A rewrite will most likely happen in the near future as the framework is dreadful, but is not guaranteed and we have no ETA when we will start on this Survival Games X update. For now, if your server/network depends on Survival Games X, this is the best way to go about continuing the project/updating for your needs.
 
-Please remember that, at this moment, you are contributing to the OLD
-source code.
+If there are any developers who have the time and are seriously committed to continuing work on the project, please feel free to message me and I'll see what I can do.
 
-Contributing guidelines & the Survival Games X wiki will be coming soon! For now, we will be monitoring to make sure
-that all pull requests are meeting our standards.
-
-We are excited for the future of Survival Games X! Thanks for the
-support over this past year.
+Please remember that, at this moment, you are contributing to the OLD source code. Contributing guidelines & the Survival Games X wiki will be coming soon. For now, we will be monitoring to make sure that all pull requests are meeting our standards. Thanks for the support over this past year.
